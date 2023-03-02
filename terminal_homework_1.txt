@@ -1,0 +1,29 @@
+  616  pwd
+  617  mkdir MainFolder
+  618  cd MainFolder
+  619  mkdir Folder1 Folder2 Folder3
+  620  cd Folder2
+  621  touch readme1.txt readme2.txt readme3.txt data1.json data2.json
+  622  mkdir Folder4 Folder5 Folder6
+  623  ls -la
+  624  vim readme1.txt 
+  625  cd ..
+  626  mv Folder2/{readme1.txt,readme2.txt} Folder4
+  627  mv Folder2/{readme1.txt,readme2.txt} Folder1
+  628  cp Folder2/{data1.json,data2.json} Folder2/Folder5
+  629  find -name "readme1.txt"
+  630  grep -i "говорила" ./*
+  631  grep -r "говорила"
+  632  head -n 7 Folder1/readme1.txt
+  633  tail -n 7 Folder1/readme1.txt
+  634  tail -n +15 Folder1/readme1.txt
+  635  less Folder1/readme1.txt
+  636  date -u
+  637  clear
+  638  curl -v http://162.55.220.72:5005/terminal-hw-request
+  639  cd ..
+  640  vim MyScript.sh
+  641  ls -la
+  642  bash MyScript.sh
+  643  clear
+  644  history
