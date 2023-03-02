@@ -1,0 +1,9 @@
+{
+	"person_name": "Egor",
+	"person_age": 28,
+	"person_devices": {
+			"device_1": "iPhone 7",
+			"device_2": "iPhone 11 Pro Max"
+	}
+
+}
