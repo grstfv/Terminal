@@ -3,7 +3,10 @@
 	"person_age": 28,
 	"person_devices": {
 			"device_1": "iPhone 7",
-			"device_2": "iPhone 11 Pro Max"
+			"device_2": "iPhone 11 Pro Max",
+			"device_3": "Samsung galaxy tab 8.9",
+			"device_4": "Samsung np535u3c",
+			"device_5": "ASUS x551m"
 	}
 
 }
